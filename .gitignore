@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+text_summarizer/
+artifacts/
 
 # C extensions
 *.so
